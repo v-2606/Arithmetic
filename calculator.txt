@@ -1,5 +1,9 @@
-class {
-  public static void main(string[] args){
+class Main {
+      public int subtraction(int a, int b){
+   return a-b;    
+}  
+
+public static void main(string[] args){
 
 
 }
